@@ -19,7 +19,6 @@ import (
 func init() {
 	ctxmanager.Register([]ctxmanager.ContextProvider{tenant.TenantProvider{}})
 	serviceloader.Register(1, &security.DummyToken{})
-	serviceloader.Register(1, &security.TenantContextObject{})
 }
 
 func setup() {
