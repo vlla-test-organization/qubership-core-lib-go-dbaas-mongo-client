@@ -1,4 +1,4 @@
-module github.com/netcracker/qubership-core-lib-go-dbaas-mongo-client/v3
+module github.com/vlla-test-organization/qubership-core-lib-go-dbaas-mongo-client/v3
 
 go 1.23
 
@@ -6,8 +6,8 @@ toolchain go1.24.5
 
 require (
 	github.com/docker/go-connections v0.5.0
-	github.com/netcracker/qubership-core-lib-go-dbaas-base-client/v3 v3.0.1
-	github.com/netcracker/qubership-core-lib-go/v3 v3.0.1
+	github.com/vlla-test-organization/qubership-core-lib-go-dbaas-base-client/v3 v3.0.1
+	github.com/vlla-test-organization/qubership-core-lib-go/v3 v3.0.1
 	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.35.0
 	go.mongodb.org/mongo-driver v1.17.3
