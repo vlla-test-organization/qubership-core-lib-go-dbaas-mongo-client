@@ -10,8 +10,8 @@ retract (
 
 require (
 	github.com/docker/go-connections v0.5.0
-	github.com/vlla-test-organization/qubership-core-lib-go-dbaas-base-client/v3 latest
-	github.com/vlla-test-organization/qubership-core-lib-go/v3 latest
+	github.com/vlla-test-organization/qubership-core-lib-go-dbaas-base-client/v3 v3.0.2
+	github.com/vlla-test-organization/qubership-core-lib-go/v3 v3.0.2
 	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.35.0
 	go.mongodb.org/mongo-driver v1.17.3
