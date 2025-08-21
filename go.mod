@@ -4,7 +4,6 @@ go 1.23
 
 toolchain go1.24.5
 
-retract v3.0.1
 
 require (
 	github.com/docker/go-connections v0.5.0
